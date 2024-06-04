@@ -3,21 +3,21 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919863840872"],
-global.ownername = process.env.OWNER_NAME || "Kiyo kun",
-global.ytname = "YT: Kiyo aint simp"
-global.socialm = "GitHub: kiritobotplays"
-global.location = "Indian"
+global.ownernumber = [ process.env.OWNER_NUMBER || "88001726441981"],
+global.ownername = process.env.OWNER_NAME || "MaHi",
+global.ytname = "YT: MaHi"
+global.socialm = "GitHub: MaHi"
+global.location = "Bangladesh,Dhaka"
 
 global.botname = process.env.BOTNAME || "Kiyo kun",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "Kiyo kun",
-global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "kiyo kun",
+global.stickername = process.env.STICKER || "MaHi",
+global.packname = 'Sticker By MaHi'
+global.author = process.env.AUTHOR || "MaHi",
 //console view/theme
-global.themeemoji = '🤦‍♂️'
-global.wm = "kiyo kun."
+global.themeemoji = '😎'
+global.wm = "MaHi."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
